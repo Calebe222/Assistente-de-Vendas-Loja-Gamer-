@@ -235,3 +235,6 @@ Sempre conduzindo o cliente até:
 
 Melhor experiência gamer
 Upgrade ideal
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/27189761-14e1-47b5-9747-8d4781b18ab6" />
+
