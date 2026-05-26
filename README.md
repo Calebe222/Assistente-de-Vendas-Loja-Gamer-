@@ -1,4 +1,4 @@
-🎮 GamerPro Bot — README de Configuração
+🎮 GamerPro Bot
 📌 Visão Geral
 
 O GamerPro Bot é um assistente virtual especializado em vendas para lojas gamer, focado em:
